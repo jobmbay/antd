@@ -13,13 +13,13 @@ See example on https://fieldify.github.io/antd/
 Using NPM
 
 ```bash
-npm install --save @fieldify/antd
+npm install --save @fieldify/antd @ant-design/icons antd react-recycling
 ```
 
 Using Yarn
 
 ```bash
-yarn add @fieldify/antd
+yarn add @fieldify/antd @ant-design/icons antd react-recycling
 ```
 
 ## Usage
